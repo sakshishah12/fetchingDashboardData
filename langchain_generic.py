@@ -84,7 +84,7 @@ def run_feedback_loop(task_description, output_format, review_instructions, max_
 
 # === Task Setup ===
 task_description = """
-You are an event aggregator AI. Your task is to find realistic and important events happening near Times Square, New York City for the next 7 days starting from tomorrow: 2025-05-10.
+You are an event aggregator AI. Your task is to find realistic and important events happening near Times Square, New York City for the next 7 days starting from tomorrow: 2025-05-16.
 
 Requirements:
 - Each event must include:
